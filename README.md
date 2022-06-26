@@ -99,8 +99,7 @@ The prizes for the top ten partners will be determined on the basis of the numbe
 The words: " Full Device Registration - PRU for short " should be understood as completing all the formalities specified in the contract with the supplier, i.e. PayEye , as well as registering the terminal on the PayEyeCoin website as a user with the possibility of minting PEC coins, which for the purposes of this project will be called a "miner ".
 A PRU is simply the activation of the PEC coinage process on a blockchain called PEB .
 
-The rewards for distribution will be paid to the address of the partner's wallet in which the non-removable token is deposited - the partner identifier (NFT) and the prizes will be transferred in the form of a PEC coin quarterly, i.e. every 3 months, the counting of which will start on August 24, 2022 (the date of the final date of execution of one from the two conditions of the first stage of the entire project called a startup . 
-
+The rewards for distribution will be paid to the address of the partner's wallet in which the non-removable token is deposited - the partner identifier (NFT) and the prizes will be transferred in the form of a PEC coin quarterly, i.e. every 3 months.
 Prize table for the most active partners:
 
 No.	PEC coins quantity
