@@ -1,9 +1,8 @@
 non-profit
-chabi87
-2022-02-22
+peer2real
 
-## P2P P2R INTRODUCTION...
-P2P P2R is a Non-Profit project which aims to free the world from unfair practices used to enrich selected individuals at the expense of citizens hidden under the word tax. 
+## Peer2Real INTRODUCTION...
+
 The P2P P2R community brings together people whose awareness of reality drives them to change their shared future.
 P2P P2R - equal to , that is equal to reality. 
 
@@ -40,7 +39,7 @@ In the first phase of the " startup " project, market research will be carried o
 
 ##### Smart Contract on Blockchain Ethereum creating 30 mln P2R tokens.
 The conditions that must be met in the first stage called STARTUP are:
-    time indicator expressed by the symbol " T ", the maximum value of which is 182 days, starting from 02.22.2022
+    time indicator expressed by the symbol " T ",
 	the minimum number of tokens that have been sold in the time not greater than or equal to T, expressed with the symbol " X ", 
     the amount of which is equal to or greater than the number of 10 million pieces.
 
@@ -77,7 +76,7 @@ And speaking humanly:
 Transactions in the store that will be made using VISA and MASTERCARD cards, as well as payments using the innovative PayEye technology will be transferred in the form of a commission of 0.04% per transaction to the P2P P2R foundation account (address of the smart contract called "FOUNDATION ACCOUNT")
 
 These payments will allow us to create a MONSTER that will be fed with commission from every transaction in the world made with a PayEye device !
-I would like to mention that at the moment PayEye has 89 points in Wrocław itself, where it allows you to make payments using its technology.
+I would like to mention that at the moment PayEye has 150 points in Wrocław itself, where it allows you to make payments using its technology.
 
 The pandemic has its plus for this project, because due to the shortages in the semiconductor supply chains, the first batch of devices that the company ordered from its contractor is to arrive around June this year and there will be 500 of them, 250 of which are going to Dubai immediately , because they bought during the last fair that took place there.
 
