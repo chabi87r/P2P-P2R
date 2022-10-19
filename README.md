@@ -32,7 +32,7 @@ A project equal to reality which as a pioneering project will connect the world 
 The first project based on Blockchain technology that will not be just binary code saved on a computer disk without the possibility of tangible recognition.
 Our project already has 89 service and commercial outlets in Wrocław itself, where it is available to everyone, and this is just the beginning, because it will soon be available all over the world, in every store, pharmacy, ice cream parlor, butcher's shop, kiosk, car service, tattoo parlor etc. e.t.c 
 The P2P P2R project aims to create a coin that will be produced by people who want to change the world and people who trust each other and do not have bad intentions towards others. The value of the coin will continue to increase as it will be powered by the commission charged on each payment made using a device provided by our partners.
-Each payment that will be made using a PayEye terminal, whether by Visa or Mastercard or by means of an eye retinal scan , will contribute to building a continuous value with an upward trend in relation to the passing time of the coin called PEC.
+Each payment that will be made using a Pay terminal, whether by Visa or Mastercard or by means of an eye retinal scan , will contribute to building a continuous value with an upward trend in relation to the passing time of the coin called PEC.
 But you will find out about this only after STAGE I, i.e. STARTUP, is 100% fulfilled. What are you waiting for, check what our STARTUP is all about, the source code can be found in the repository on GitHub.com or in the transaction book of one of the largest blockchains called ethereum , and access to its source code is provided by etherscan.io
 	## STARTUP - Smart Contract
 In the first phase of the " startup " project, market research will be carried out by issuing P2R tokens that will be written using a smart contract defined by two conditions, resulting in the implementation of the next stage of the project.
@@ -55,7 +55,7 @@ The P2P token holder will be able to:
 Exchange of P2R tokens for PEC in a 1: 2 ratio, i.e. 1 P2R token will be exchangeable for 2 PEC coins
 Purchase of the mining share of the PEC coin, i.e. cryptocurrency miners in the cloud - PEC coin minting. The funds obtained from the sale of "excavators" of the PEC coins will be transferred to a wallet called PFPEC of the P2P P2R foundation, access to which will be secured by a smart contract.
     
-Purchase of a distributor license for PoS devices owned by PayEye . 
+Purchase of a distributor license for PoS devices owned by Pay . 
 P2R tokens used to carry out transactions on the P2P P2R blockchain will be irretrievably burned in the     amount of 50% with each transaction made.
 The value of the PEC coin will be determined by a simple mathematical operation represented by the following notation:
 	1 * $ PEC = (P2R + PET) / x * mPEC
@@ -64,19 +64,19 @@ where:
         
 P2R - a native token whose value in the first stage , i.e. at the time of acquiring investors, is constant and amounts to 1 USDT, and when the STARTUP STAGE is completed with a positive result in both conditions, the value of the P2R coin will take a variable value determined by the ratio of the number of PEC coins available in circulation, and the amount of funds accumulated in the PFPEC wallet determined by the number of stablecoins PET , the value of which through the STAKING process will be twice the value of the PEC coin, which when it reaches twice the initial value will become marketable.
 
-PET - PayEyeToken is a 1USDT stablecoin. 
+PET - PayET is a 1USDT stablecoin. 
 
-PayEyeToken will finally be a token resistant to inflation, it will not be affected by fluctuations in the markets of fiat and digital currencies. With the PET token, it will be possible to pay in every corner of the world without additional fees, such as, for example, currency conversion e.t.c
+PayET will finally be a token resistant to inflation, it will not be affected by fluctuations in the markets of fiat and digital currencies. With the PET token, it will be possible to pay in every corner of the world without additional fees, such as, for example, currency conversion e.t.c
 	x * mPEC - number (x) of PEC coins available in circulation
 
 The number of PET in the PFPEC Foundation's portfolio will continue to increase over time as the number will depend on several factors. 
 The main component of the PEC coin value will be the commission on purchases paid for by the POS device.
 
 And speaking humanly:
-Transactions in the store that will be made using VISA and MASTERCARD cards, as well as payments using the innovative PayEye technology will be transferred in the form of a commission of 0.04% per transaction to the P2P P2R foundation account (address of the smart contract called "FOUNDATION ACCOUNT")
+Transactions in the store that will be made using VISA and MASTERCARD cards, as well as payments using the innovative Pay technology will be transferred in the form of a commission of 0.04% per transaction to the P2P P2R foundation account (address of the smart contract called "FOUNDATION ACCOUNT")
 
-These payments will allow us to create a MONSTER that will be fed with commission from every transaction in the world made with a PayEye device !
-I would like to mention that at the moment PayEye has 150 points in Wrocław itself, where it allows you to make payments using its technology.
+These payments will allow us to create a MONSTER that will be fed with commission from every transaction in the world made with a Pay device !
+I would like to mention that at the moment Pay has 150 points in Wrocław itself, where it allows you to make payments using its technology.
 
 The pandemic has its plus for this project, because due to the shortages in the semiconductor supply chains, the first batch of devices that the company ordered from its contractor is to arrive around June this year and there will be 500 of them, 250 of which are going to Dubai immediately , because they bought during the last fair that took place there.
 
@@ -93,10 +93,10 @@ The " Affiliate License " function automatically performs two transfers of 100 P
 
 P2R TOKENS from the purchase of a license to distribute the device will be automatically converted into stablecoin - USDT and in this form will be transferred to the foundation's wallet ( PFPEC ) , the accumulated funds will reflect the actual value of the PEC coin.
 
-At the time of purchasing the license, the user becomes a P2P P2R partner and receives a non-removable token - NFT , to the address of his wallet from which he purchased the license , which will serve him as a unique identifier proving the partnership and the right to distribute devices whose manufacturer and owner is PayEye .
+At the time of purchasing the license, the user becomes a P2P P2R partner and receives a non-removable token - NFT , to the address of his wallet from which he purchased the license , which will serve him as a unique identifier proving the partnership and the right to distribute devices whose manufacturer and owner is Pay .
 The prizes for the top ten partners will be determined on the basis of the number of active devices registered by retail and service points using the identifier of the partner whose distribution led to the full registration of the PoS device by the economic entity.
 
-The words: " Full Device Registration - PRU for short " should be understood as completing all the formalities specified in the contract with the supplier, i.e. PayEye , as well as registering the terminal on the PayEyeCoin website as a user with the possibility of minting PEC coins, which for the purposes of this project will be called a "miner ".
+The words: " Full Device Registration - PRU for short " should be understood as completing all the formalities specified in the contract with the supplier, i.e. Pay , as well as registering the terminal on the PayEC website as a user with the possibility of minting PEC coins, which for the purposes of this project will be called a "miner ".
 A PRU is simply the activation of the PEC coinage process on a blockchain called PEB .
 
 The rewards for distribution will be paid to the address of the partner's wallet in which the non-removable token is deposited - the partner identifier (NFT) and the prizes will be transferred in the form of a PEC coin quarterly, i.e. every 3 months.
